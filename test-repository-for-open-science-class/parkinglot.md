@@ -6,3 +6,4 @@
 * Dodge Caravan
 * Nissan Murano
 * Mazda 3
+* Chevrolet Chevette
